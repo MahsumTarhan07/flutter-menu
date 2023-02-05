@@ -2,7 +2,7 @@ Merhaba Yakkında Yeni Eklemeler Eklenecektir.
 
 My linkedin  =  https://www.linkedin.com/in/mahsum-tarhan-8b9074202/
 
-E Postam = mahsum.dev@gmail.com Bana Ulasabilirsiniz.
+E Postam = mahsum.dev@gmail.com  Bana Ulasabilirsiniz.
 
 Flutter Anasayfası Link  https://api.flutter.dev/index.html
 
