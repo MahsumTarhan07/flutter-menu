@@ -1,8 +1,9 @@
-Merhaba Yakkında Yeni Eklemeler Eklenecektir.
+Hello, New Additions Will Be Added Soon.
 
 My linkedin  =  https://www.linkedin.com/in/mahsum-tarhan-8b9074202/
 
-E Postam = mahsum.dev@gmail.com  Bana Ulasabilirsiniz.
+E Postam = mahsum.dev@gmail.com  You can contact me
+
 
 Flutter Anasayfası Link  https://api.flutter.dev/index.html
 
